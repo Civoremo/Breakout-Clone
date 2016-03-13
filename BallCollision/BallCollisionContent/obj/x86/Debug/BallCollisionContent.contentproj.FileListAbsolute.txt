@@ -1,0 +1,2 @@
+C:\Users\NtD\Documents\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollisionContent\obj\x86\Debug\BallCollisionContent.contentprojResolveAssemblyReference.cache
+C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollisionContent\obj\x86\Debug\BallCollisionContent.contentprojResolveAssemblyReference.cache

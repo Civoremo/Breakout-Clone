@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BoomBrick.png</Source>
+      <Name>BoomBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\BoomBrick.xnb</Output>
+      <Time>2014-02-08T21:49:08.5333254-05:00</Time>
+    </Item>
+    <Item>
+      <Source>greenBrick.png</Source>
+      <Name>greenBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\greenBrick.xnb</Output>
+      <Time>2014-02-08T22:10:42.0303092-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu.png</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\MainMenu.xnb</Output>
+      <Time>2014-01-21T21:06:04.3127349-05:00</Time>
+    </Item>
+    <Item>
+      <Source>paddleBlu.png</Source>
+      <Name>paddleBlu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\paddleBlu.xnb</Output>
+      <Time>2014-01-08T21:09:11.5684056-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ballGrey.png</Source>
+      <Name>ballGrey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\ballGrey.xnb</Output>
+      <Time>2014-01-08T23:07:15.9651124-05:00</Time>
+    </Item>
+    <Item>
+      <Source>redBrick.png</Source>
+      <Name>redBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\redBrick.xnb</Output>
+      <Time>2014-02-08T22:10:47.8876442-05:00</Time>
+    </Item>
+    <Item>
+      <Source>purpleBrick.png</Source>
+      <Name>purpleBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\purpleBrick.xnb</Output>
+      <Time>2014-02-08T22:10:54.1350015-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ballBlue.png</Source>
+      <Name>ballBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\ballBlue.xnb</Output>
+      <Time>2014-01-08T16:41:11.0669753-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sweepBar.png</Source>
+      <Name>sweepBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\sweepBar.xnb</Output>
+      <Time>2014-01-15T14:36:43.2642899-05:00</Time>
+    </Item>
+    <Item>
+      <Source>powerupBig.png</Source>
+      <Name>powerupBig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\powerupBig.xnb</Output>
+      <Time>2014-02-09T19:53:32.0860228-05:00</Time>
+    </Item>
+    <Item>
+      <Source>powerupLife.png</Source>
+      <Name>powerupLife</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\powerupLife.xnb</Output>
+      <Time>2014-02-09T19:53:32.7560237-05:00</Time>
+    </Item>
+    <Item>
+      <Source>powerupSmall.png</Source>
+      <Name>powerupSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\powerupSmall.xnb</Output>
+      <Time>2014-02-09T19:53:33.4660247-05:00</Time>
+    </Item>
+    <Item>
+      <Source>powerupTime.png</Source>
+      <Name>powerupTime</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\powerupTime.xnb</Output>
+      <Time>2014-02-09T19:53:34.1660257-05:00</Time>
+    </Item>
+    <Item>
+      <Source>powerupWave.png</Source>
+      <Name>powerupWave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\powerupWave.xnb</Output>
+      <Time>2014-02-09T19:53:34.8760267-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bigpaddleBlu.png</Source>
+      <Name>bigpaddleBlu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\bigpaddleBlu.xnb</Output>
+      <Time>2014-01-21T18:24:39.4894335-05:00</Time>
+    </Item>
+    <Item>
+      <Source>smallpaddleBlu.png</Source>
+      <Name>smallpaddleBlu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\smallpaddleBlu.xnb</Output>
+      <Time>2014-01-21T18:24:39.4894335-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WavePU.png</Source>
+      <Name>WavePU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\WavePU.xnb</Output>
+      <Time>2014-01-21T19:25:21.9445809-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2014-01-21T20:36:12.969702-05:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-01-25T09:53:45.1533107-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ExtraBallBrick.png</Source>
+      <Name>ExtraBallBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\ExtraBallBrick.xnb</Output>
+      <Time>2014-02-09T19:53:31.3260218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SolidBrick.png</Source>
+      <Name>SolidBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\SolidBrick.xnb</Output>
+      <Time>2014-02-08T21:26:48.730693-05:00</Time>
+    </Item>
+    <Item>
+      <Source>purpleBrickCrack.png</Source>
+      <Name>purpleBrickCrack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\purpleBrickCrack.xnb</Output>
+      <Time>2014-02-08T22:11:12.0430258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>purpleBrickBroken.png</Source>
+      <Name>purpleBrickBroken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\purpleBrickBroken.xnb</Output>
+      <Time>2014-02-08T22:11:16.1592612-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Verdana.spritefont</Source>
+      <Name>Verdana</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\Verdana.xnb</Output>
+      <Time>2014-01-09T18:13:02.7306869-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollisionContent\</RootDirectory>
+      <LoggerRootDirectory>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollisionContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\C# files\Visual Studio 2010\Projects\BallCollision\BallCollision\BallCollision\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-05T10:41:10.3970559-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
